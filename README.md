@@ -1,4 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba.
+# Hola Mundo
+Mi primer repositorio.
+
 Autor: Jordy F.
 Fecha: 20 de septiembre.
